@@ -16,6 +16,8 @@
       "csv": "odds/2026-10-01_bank-of-utah-championship_model_odds.csv",
       "md": "odds/2026-10-01_bank-of-utah-championship_model_odds.md",
       "n_players": 117,
+      "published_at": "2026-10-01T12:07:51Z",
+      "release_url": "https://github.com/justindominiczak/golf-picks-record/releases/tag/R2026554-odds",
       "sim_run_utc": "2026-10-01T01:16:30Z",
       "tag": "R2026554-odds"
     }
