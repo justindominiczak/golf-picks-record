@@ -11,6 +11,13 @@
       }
     ],
     "date": "2026-10-01",
-    "name": "Bank of Utah Championship"
+    "name": "Bank of Utah Championship",
+    "odds": {
+      "csv": "odds/2026-10-01_bank-of-utah-championship_model_odds.csv",
+      "md": "odds/2026-10-01_bank-of-utah-championship_model_odds.md",
+      "n_players": 117,
+      "sim_run_utc": "2026-10-01T01:16:30Z",
+      "tag": "R2026554-odds"
+    }
   }
 }
