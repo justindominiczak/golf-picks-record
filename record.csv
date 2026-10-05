@@ -1,0 +1,2 @@
+tournament_id,tournament_name,logged_utc,slot,market,player_name,opponent_name,odds_american,model_p,market_fair_p,ev,stake,close_odds_american,clv,result,units,status
+R2026554,Bank of Utah Championship,2026-10-01T01:16:31Z,top20,top20,Andrew Putnam,,410,0.2167,0.1528,0.1052,1.0,410,-0.2212,loss,-1.0,settled
